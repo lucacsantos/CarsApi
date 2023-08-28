@@ -41,6 +41,17 @@ namespace CarAPI.Controllers
             return CreatedAtAction(nameof(GetCars), new { id = cars.Id }, TodoCarDTO(cars));
             
         }
+        [HttpGet("id")]
+        public async Task<ActionResult<CarDTO>> GetCarsId(long id)
+        {
+            var cars = await _context.Cars.FindAsync(id);
+            
+            if (cars == null)
+            {
+                return NotFound();
+            }
+            return TodoCarDTO(cars);
+        }
 
 
         private static CarDTO TodoCarDTO(Cars cars)
