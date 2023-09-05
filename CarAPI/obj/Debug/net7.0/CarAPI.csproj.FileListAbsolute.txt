@@ -230,3 +230,6 @@ C:\Users\lucas\OneDrive\Área de Trabalho\lucas\projetos_pessoais\CarAPI\CarAPI\
 C:\Users\lucas\OneDrive\Área de Trabalho\lucas\projetos_pessoais\CarAPI\CarAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\lucas\OneDrive\Área de Trabalho\lucas\projetos_pessoais\CarAPI\CarAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\lucas\OneDrive\Área de Trabalho\lucas\projetos_pessoais\CarAPI\CarAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\projetos_pessoais\CarAPI\CarAPI\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\projetos_pessoais\CarAPI\CarAPI\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\projetos_pessoais\CarAPI\CarAPI\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll

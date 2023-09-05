@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "iZCe1K8fbLyp1iiggZ41A5KCburI+D5nqGuB9CKlwhpvUh4ln2+1Ugz3MMzHCvDTbqdntIyvb0Zt8oLrUYD0HA==",
+  "dgSpecHash": "v3E21AcPnw3jYl2SaVPIkClZCu7nlhp5PIz2UAloSz/9lMcTnIhSjPz+vUVj+3OVU74f4pZQm7nF5JK20hJKUg==",
   "success": true,
   "projectFilePath": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\lucas\\projetos_pessoais\\CarAPI\\CarAPI\\CarAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",
